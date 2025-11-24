@@ -81,5 +81,5 @@ public class Main {
    Thus, the Java program was successfully written and executed to classify the DNA number using conditional statements.
 
 
-## RESULT:
+
 
