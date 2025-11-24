@@ -16,11 +16,17 @@ To write a Java program that demonstrates the use of variables, data types, oper
 
 ## ALGORITHM :
 1.Start the program.
+
 2.Create a Scanner object to read input.
+
 3.Read the name (String), age (int), and favorite number (float).
+
 4.Display greeting using System.out.print().
+
 5.Display age using System.out.println().
+
 6.Display favorite number using System.out.printf() formatted to two decimals.
+
 7.End the program.
 
 
@@ -65,3 +71,4 @@ public class PrintDemo {
 
 ## RESULT:
  Thus, the Java program was successfully written and executed to demonstrate the different printing methods in Java.
+
