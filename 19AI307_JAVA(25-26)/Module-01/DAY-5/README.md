@@ -37,11 +37,6 @@ public class Main {
         System.out.println("Modified string: "+modified);
     }
 }
-
-
-
-
-
 ```
 ## OUTPUT:
 
@@ -50,3 +45,4 @@ public class Main {
 
 ## RESULT:
  Thus, the Java program was successfully written and executed to replace each space in a string with a hyphen.
+
